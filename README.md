@@ -14,7 +14,7 @@
 
 ### 📲 WhatsApp Escalation
 - Automatically sends a **WhatsApp message** to the assigned caretaker(s), such as:
-  > "Dadi hasn’t responded to her 8 PM medicine reminder. Please check in on her ❤️"
+  > "tata hasn’t responded to her 8 PM medicine reminder. Please check in on him ❤️"
 - Supports **multiple recipients** (children, grandchildren, home nurse, etc.)
 
 ### 🗓️ Smart Scheduling
@@ -26,6 +26,6 @@
 |---------------|------------------------------------|
 | Backend       | Node.js / Express.js              |
 | Messaging API | Twilio + WhatsApp Business API    |
-| Voice Alerts  | Node.js + Text-to-Speech (TTS) Engines (e.g., Google TTS / say.js) |
-| Detection     | Button-trigger or future voice recognition (optional) |
-| Database      | MongoDB / Firebase / JSON         |
+| Voice Alerts  | Node.js + Text-to-Speech (TTS) Engines |
+| Detection     | voice recognition 
+| Database      |  Firebase     
