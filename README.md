@@ -14,7 +14,7 @@
 
 ### 📲 WhatsApp Escalation
 - Automatically sends a **WhatsApp message** to the assigned caretaker(s), such as:
-  > "tata hasn’t responded to her 8 PM medicine reminder. Please check in on him ❤️"
+  > "tata hasn’t responded to his 8 PM medicine reminder. Please check in on him ❤️"
 - Supports **multiple recipients** (children, grandchildren, home nurse, etc.)
 
 ### 🗓️ Smart Scheduling
